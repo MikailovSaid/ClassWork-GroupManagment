@@ -1,0 +1,14 @@
+C:\Users\saidgm\Desktop\Classwork\GroupManagment\GroupManagment\bin\Debug\netcoreapp3.1\GroupManagment.exe
+C:\Users\saidgm\Desktop\Classwork\GroupManagment\GroupManagment\bin\Debug\netcoreapp3.1\GroupManagment.deps.json
+C:\Users\saidgm\Desktop\Classwork\GroupManagment\GroupManagment\bin\Debug\netcoreapp3.1\GroupManagment.runtimeconfig.json
+C:\Users\saidgm\Desktop\Classwork\GroupManagment\GroupManagment\bin\Debug\netcoreapp3.1\GroupManagment.runtimeconfig.dev.json
+C:\Users\saidgm\Desktop\Classwork\GroupManagment\GroupManagment\bin\Debug\netcoreapp3.1\GroupManagment.dll
+C:\Users\saidgm\Desktop\Classwork\GroupManagment\GroupManagment\bin\Debug\netcoreapp3.1\GroupManagment.pdb
+C:\Users\saidgm\Desktop\Classwork\GroupManagment\GroupManagment\obj\Debug\netcoreapp3.1\GroupManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saidgm\Desktop\Classwork\GroupManagment\GroupManagment\obj\Debug\netcoreapp3.1\GroupManagment.AssemblyInfoInputs.cache
+C:\Users\saidgm\Desktop\Classwork\GroupManagment\GroupManagment\obj\Debug\netcoreapp3.1\GroupManagment.AssemblyInfo.cs
+C:\Users\saidgm\Desktop\Classwork\GroupManagment\GroupManagment\obj\Debug\netcoreapp3.1\GroupManagment.csproj.CoreCompileInputs.cache
+C:\Users\saidgm\Desktop\Classwork\GroupManagment\GroupManagment\obj\Debug\netcoreapp3.1\GroupManagment.dll
+C:\Users\saidgm\Desktop\Classwork\GroupManagment\GroupManagment\obj\Debug\netcoreapp3.1\GroupManagment.pdb
+C:\Users\saidgm\Desktop\Classwork\GroupManagment\GroupManagment\obj\Debug\netcoreapp3.1\GroupManagment.genruntimeconfig.cache
+C:\Users\saidgm\Desktop\Classwork\GroupManagment\GroupManagment\obj\Debug\netcoreapp3.1\GroupManagment.csproj.AssemblyReference.cache
